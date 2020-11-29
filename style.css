@@ -1,0 +1,23 @@
+.greenbg{
+    width: 250px;
+    height: 100px;
+    background:green;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 0px 0px 11px 2px black;
+}
+.redcenter{
+    height: 100px;
+    width: 100px;
+    background: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+.stand{
+    width: 14px;
+    height: 330px;
+    background: #000;
+    margin-left: 547px;
+}
